@@ -1,0 +1,23 @@
+{
+  "globals": {
+    "window": false,
+    "document": false,
+    "require": false,
+    "console": true,
+    "module": true,
+    "google": false,
+    "describe": false,
+    "it": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "before": false,
+    "after": false,
+    "global": false
+  },
+  "nonew": true,
+  "unused": true,
+  "undef": true,
+  "browser": true,
+  "indent": 1,
+  "expr": true
+}

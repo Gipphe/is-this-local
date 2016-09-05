@@ -1,0 +1,19 @@
+{
+  "name": "is-this-local",
+  "version": "0.1.0",
+  "description": "Predicate for whether the current document location is localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -b spec/"
+  },
+  "author": "Victor \"Gipphe\" Nascimento Bakke",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "mockery": "^1.7.0",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+  }
+}

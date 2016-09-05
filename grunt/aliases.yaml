@@ -1,0 +1,33 @@
+default:
+  tasks:
+    - 'browserSync'
+    - 'watch'
+prod:
+  tasks:
+    - 'clean'
+    - 'copy:html'
+    - 'copy:fonts'
+    - 'copy:data'
+    - 'imagemin:prod'
+    - 'sass:prod'
+    - 'browserify:prod'
+    - 'uglify:dist'
+dev:
+  tasks:
+    - 'clean'
+    - 'copy:html'
+    - 'copy:fonts'
+    - 'copy:data'
+    - 'imagemin:dev'
+    - 'sass:dev'
+    - 'browserify:dev'
+devPush:
+  tasks:
+    - 'clean'
+    - 'copy:html'
+    - 'copy:fonts'
+    - 'copy:data'
+    - 'imagemin:dev'
+    - 'sass:dev'
+    - 'browserify:dev'
+    - 'copy:push'
