@@ -1,5 +1,6 @@
 sudo: false
 language: node_js
+before_script: gulp
 node_js:
   - '0.12'
   - '4'
