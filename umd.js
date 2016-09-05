@@ -1,0 +1,1 @@
+;!function(e,o){"use strict";"function"==typeof define&&define.amd?define([],o):"object"==typeof module&&module.exports?module.exports=o():e.isLocal=o()}(this,function(){

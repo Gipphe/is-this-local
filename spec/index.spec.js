@@ -2,7 +2,7 @@ var expect = require('chai').expect;
 
 describe('isDev', function() {
 	var isDev;
-	var modulePath = '../index';
+	var modulePath = '../dist/index';
 	global.document = {
 		location: {
 			href: ''

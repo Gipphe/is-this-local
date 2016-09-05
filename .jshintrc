@@ -14,5 +14,5 @@
   "bitwise": true,
   "curly": true,
   "noarg": true,
-  "strict": true
+  "strict": "implied"
 }
