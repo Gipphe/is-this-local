@@ -6,7 +6,26 @@
   "scripts": {
     "test": "mocha spec/"
   },
-  "author": "Victor \"Gipphe\" Nascimento Bakke",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gipphe/is-this-local.git"
+  },
+  "engines": {
+    "node": ">=4.4.0"
+  },
+  "keywords": [
+    "localhost",
+    "browser"
+  ],
+  "author": {
+    "name": "Victor \"Gipphe\" Nascimento Bakke",
+    "email": "gipphe@gmail.com",
+    "url": "giphtbase.org"
+  },
+  "bugs": {
+    "url": "https://github.com/Gipphe/is-this-local/issues"
+  },
+  "homepage": "https://github.com/Gipphe/is-this-local#readme",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
