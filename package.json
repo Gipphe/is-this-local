@@ -4,7 +4,7 @@
   "description": "Predicate for whether the current document location is localhost",
   "main": "dist/index.js",
   "scripts": {
-    "test": "mocha spec/"
+    "test": "gulp && mocha spec/"
   },
   "author": "Victor \"Gipphe\" Nascimento Bakke",
   "license": "MIT",
