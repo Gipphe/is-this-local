@@ -1,4 +1,6 @@
-# is-this-local [![Build Status](https://travis-ci.org/Gipphe/is-this-local.svg?branch=master)](https://travis-ci.org/Gipphe/is-this-local)
+# is-this-local
+ [![Build Status](https://travis-ci.org/Gipphe/is-this-local.svg?branch=master)](https://travis-ci.org/Gipphe/is-this-local)
+ [![NPM version](https://img.shields.io/npm/v/is-this-local.svg?style=flat)](https://www.npmjs.com/package/is-this-local)
 
 > Predicate for whether the current document location is localhost
 
