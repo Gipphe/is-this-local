@@ -1,7 +1,6 @@
 # Node and Bower folders
 node_modules
 bower_components
-dist
 .sass-cache
 
 **localhost!*.png
