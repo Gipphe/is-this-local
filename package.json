@@ -1,6 +1,6 @@
 {
   "name": "is-this-local",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Predicate for whether the current document location is localhost",
   "main": "dist/index.js",
   "scripts": {
